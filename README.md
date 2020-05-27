@@ -23,7 +23,7 @@ A. Instructions to build the application:
 
 B. Instruction to run the application:
 
-1. Navigate to the current directory "./ExcitingTriviaGame/src/main/java" in your favorite command line environment.
+1. Navigate to the current directory `"./ExcitingTriviaGame/src/main/java"` in your favorite command line environment.
 
 2. Follow the instructions above to build the application.
 
