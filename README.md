@@ -4,7 +4,7 @@
 
 ### Instructions to Build and Run Projects
 
-Minimum requirement: Java JDK version 13.0.1
+Java JDK version: 13.0.1
 
 Note: Please register Java JDK to environment PATH before building or running the application.
 
